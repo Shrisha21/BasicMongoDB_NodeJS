@@ -1,0 +1,14 @@
+{
+  "name": "samplepro",
+  "version": "1.0.0",
+  "description": "MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrisha Adiga",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
